@@ -1,0 +1,41 @@
+[0.175s] Invoking command in '/home/electronica/ros2_ws_v2/build/my_robot_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/electronica/ros2_ws/install/turtlesim_catch_them_all:/home/electronica/ros2_ws/install/my_py_pkg:/opt/ros/humble /usr/bin/cmake /home/electronica/ros2_ws_v2/src/my_robot_description -DCMAKE_INSTALL_PREFIX=/home/electronica/ros2_ws_v2/install/my_robot_description
+[0.753s] -- The C compiler identification is GNU 11.4.0
+[1.087s] -- The CXX compiler identification is GNU 11.4.0
+[1.127s] -- Detecting C compiler ABI info
+[1.300s] -- Detecting C compiler ABI info - done
+[1.311s] -- Check for working C compiler: /usr/bin/cc - skipped
+[1.312s] -- Detecting C compile features
+[1.360s] -- Detecting C compile features - done
+[1.368s] -- Detecting CXX compiler ABI info
+[1.547s] -- Detecting CXX compiler ABI info - done
+[1.571s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[1.571s] -- Detecting CXX compile features
+[1.572s] -- Detecting CXX compile features - done
+[1.649s] -- Found ament_cmake: 1.3.5 (/opt/ros/humble/share/ament_cmake/cmake)
+[2.001s] -- Found Python3: /usr/bin/python3.10 (found version "3.10.12") found components: Interpreter 
+[2.393s] -- Configuring done
+[2.399s] -- Generating done
+[2.402s] -- Build files have been written to: /home/electronica/ros2_ws_v2/build/my_robot_description
+[2.412s] Invoked command in '/home/electronica/ros2_ws_v2/build/my_robot_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/electronica/ros2_ws/install/turtlesim_catch_them_all:/home/electronica/ros2_ws/install/my_py_pkg:/opt/ros/humble /usr/bin/cmake /home/electronica/ros2_ws_v2/src/my_robot_description -DCMAKE_INSTALL_PREFIX=/home/electronica/ros2_ws_v2/install/my_robot_description
+[2.412s] Invoking command in '/home/electronica/ros2_ws_v2/build/my_robot_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/electronica/ros2_ws/install/turtlesim_catch_them_all:/home/electronica/ros2_ws/install/my_py_pkg:/opt/ros/humble /usr/bin/cmake --build /home/electronica/ros2_ws_v2/build/my_robot_description -- -j8 -l8
+[2.482s] Invoked command in '/home/electronica/ros2_ws_v2/build/my_robot_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/electronica/ros2_ws/install/turtlesim_catch_them_all:/home/electronica/ros2_ws/install/my_py_pkg:/opt/ros/humble /usr/bin/cmake --build /home/electronica/ros2_ws_v2/build/my_robot_description -- -j8 -l8
+[2.534s] Invoking command in '/home/electronica/ros2_ws_v2/build/my_robot_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/electronica/ros2_ws/install/turtlesim_catch_them_all:/home/electronica/ros2_ws/install/my_py_pkg:/opt/ros/humble /usr/bin/cmake --install /home/electronica/ros2_ws_v2/build/my_robot_description
+[2.546s] -- Install configuration: ""
+[2.546s] -- Installing: /home/electronica/ros2_ws_v2/install/my_robot_description/share/my_robot_description//urdf
+[2.547s] -- Installing: /home/electronica/ros2_ws_v2/install/my_robot_description/share/my_robot_description//urdf/my_robot.urdf
+[2.547s] -- Installing: /home/electronica/ros2_ws_v2/install/my_robot_description/share/ament_index/resource_index/package_run_dependencies/my_robot_description
+[2.547s] -- Installing: /home/electronica/ros2_ws_v2/install/my_robot_description/share/ament_index/resource_index/parent_prefix_path/my_robot_description
+[2.547s] -- Installing: /home/electronica/ros2_ws_v2/install/my_robot_description/share/my_robot_description/environment/ament_prefix_path.sh
+[2.548s] -- Installing: /home/electronica/ros2_ws_v2/install/my_robot_description/share/my_robot_description/environment/ament_prefix_path.dsv
+[2.548s] -- Installing: /home/electronica/ros2_ws_v2/install/my_robot_description/share/my_robot_description/environment/path.sh
+[2.548s] -- Installing: /home/electronica/ros2_ws_v2/install/my_robot_description/share/my_robot_description/environment/path.dsv
+[2.548s] -- Installing: /home/electronica/ros2_ws_v2/install/my_robot_description/share/my_robot_description/local_setup.bash
+[2.549s] -- Installing: /home/electronica/ros2_ws_v2/install/my_robot_description/share/my_robot_description/local_setup.sh
+[2.549s] -- Installing: /home/electronica/ros2_ws_v2/install/my_robot_description/share/my_robot_description/local_setup.zsh
+[2.549s] -- Installing: /home/electronica/ros2_ws_v2/install/my_robot_description/share/my_robot_description/local_setup.dsv
+[2.549s] -- Installing: /home/electronica/ros2_ws_v2/install/my_robot_description/share/my_robot_description/package.dsv
+[2.550s] -- Installing: /home/electronica/ros2_ws_v2/install/my_robot_description/share/ament_index/resource_index/packages/my_robot_description
+[2.550s] -- Installing: /home/electronica/ros2_ws_v2/install/my_robot_description/share/my_robot_description/cmake/my_robot_descriptionConfig.cmake
+[2.550s] -- Installing: /home/electronica/ros2_ws_v2/install/my_robot_description/share/my_robot_description/cmake/my_robot_descriptionConfig-version.cmake
+[2.550s] -- Installing: /home/electronica/ros2_ws_v2/install/my_robot_description/share/my_robot_description/package.xml
+[2.553s] Invoked command in '/home/electronica/ros2_ws_v2/build/my_robot_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/electronica/ros2_ws/install/turtlesim_catch_them_all:/home/electronica/ros2_ws/install/my_py_pkg:/opt/ros/humble /usr/bin/cmake --install /home/electronica/ros2_ws_v2/build/my_robot_description
